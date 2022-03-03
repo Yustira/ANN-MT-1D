@@ -1,6 +1,7 @@
 <h1> One-Dimensional Inversion of Magnetotelluric Data Using Artificial Neural Networks </h1>
 
-**Tools:**
+<h3> Tools: </h3>
+
 * SimPEG
 * Tensorflow
 * Pandas
